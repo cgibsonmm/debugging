@@ -162,6 +162,8 @@ These are just some of the additional console methods. There are many more conso
 
 <hr>
 
+#### Break (10 min)
+
 ## Interactive Debuggers Overview
 
 ![Chrome debugger](images/chromedebugger.png)
