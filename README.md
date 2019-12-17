@@ -11,8 +11,9 @@
 ## Objectives
 
 -   Students will be able to explain what debugging is and why it is important.
--   Students will be able to use a variety of console tools in Chrome to debug.
--   Students will be able to use VS Code's built-in debugger to find and resolve errors.
+-   Students will be able to explain how to take a methodical approach to debugging.
+-   Students will be able to use a variety of console tools to debug.
+-   Students will gain familiarity with Chrome and VS Code's built-in debugger tools.
 
 <hr>
 
