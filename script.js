@@ -1,4 +1,32 @@
-// // If you would like to code along with this lesson, you can do so here. The examples below will be covered in class. You can uncomment them one at a time to see the results in your own console. Feel free to add additional code to test these methods.
+// // If you would like to code along with this lesson, you can do so here. The examples below will be covered in class. You can uncomment them one at a time to see the results in your own console. Feel free to add additional code and take notes as needed.
+
+// A METHODICAL APPROACH:
+
+//The code below is supposed to return the sum of the cubes up to the parameter n. For example, if n=4, the function should return 0^3 + 1^3 + 2^3 + 3^3 + 4^3 = 100. However, the code is broken. Using the methodical approach discussed in the README, write your answers to the questions below.
+// function sumCubes(n) {
+// 	for (let i = 0; i <= n; i++) {
+// 		let sum = 0;
+// 		sum += i ** 3;
+// 	}
+// 	return sum;
+// }
+
+// console.log(sumCubes(4));
+
+// 1. What is my error?
+// Answer here:
+
+// 2. Where is my error?
+// Answer here:
+
+// 3. What is my code supposed to be doing there?
+//
+
+// 4. How do I test my assumptions?
+// Answer here:
+
+// 5. What does the test show?
+// Answer here:
 
 // // ADDITIONAL CONSOLE METHODS:
 
@@ -53,17 +81,17 @@
 // let myNumber = 7;
 
 //debug this function in Chrome Dev Tools, then VS Code
-let myName = 'Allan';
+// let myName = 'Allan';
 
-function evenSum(num) {
-	for (let i = 0; i <= num; i += 2) {
-		myName = 'Steve';
-		let sum = 0;
-		sum += i;
-		debugger;
-	}
-	myName = 'Roger';
-	return sum;
-}
+// function evenSum(num) {
+// 	for (let i = 0; i <= num; i += 2) {
+// 		myName = 'Steve';
+// 		let sum = 0;
+// 		sum += i;
+// 		//debugger;
+// 	}
+// 	myName = 'Roger';
+// 	return sum;
+// }
 
-console.log(evenSum(12));
+// console.log(evenSum(12));

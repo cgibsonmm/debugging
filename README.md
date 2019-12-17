@@ -1,8 +1,8 @@
-**Title:** Introduction to Debugging
-**Type:** Morning Lecture
-**Duration:** 1:30
-**Creator:** Esin Saribudak
-**Competencies:** Debugging, Problem Solving, JavaScript, Dev Tools, VS Code
+**Title:** Introduction to Debugging <br>
+**Type:** Morning Lecture <br>
+**Duration:** 1:30 <br>
+**Creator:** Esin Saribudak <br>
+**Competencies:** Debugging, Problem Solving, JavaScript, Dev Tools, VS Code <br>
 **Prerequisites:** JavaScript, VS Code, Node.js installed locally (if you have not yet installed Node, please refer back to your Installfest [repo](https://git.generalassemb.ly/seir-129/installfest/blob/master/node.md) and install Node)
 
 <hr>
@@ -18,11 +18,11 @@
 
 ## Agenda
 
-1. Preface
-2. A Methodical Approach
-3. Console Methods
-4. Chrome and VS Code Debugger
-5. Additional Resources
+1. Preface (5 min)
+2. A Methodical Approach (10 min)
+3. Console Methods (35 min)
+4. Chrome and VS Code Debugger (35 min)
+5. Additional Resources (5 min)
 
 <hr>
 
@@ -32,7 +32,7 @@ Throughout your career as software engineer, you will encounter many errors, or 
 
 Strong debugging skills are often considered to be one of the characteristics that separates junior developers from senior developers. During job interviews, potential employers may also ask you about a difficult bug you encountered and how you solved it.
 
-Just like anything else we teach you in this course, debugging is a _SKILL_ -- you will get better at it over time, with more practice and more experience. And by taking a **methodical approach** to debugging, understanding the range of available **debugging tools and options**, and getting practice at **finding errors**, you will become a faster, more efficient debugger AND a better developer overall.
+Just like anything else we teach you in this course, debugging is a _SKILL_ -- you will get better at it over time, with more practice and more experience. And by taking a **methodical approach** to debugging, understanding the range of available **debugging tools and options**, and getting practice at **finding errors**, you will become a faster, more efficient debugger AND a better developer overall. 💪
 
 <hr>
 
@@ -66,6 +66,10 @@ Below is a useful series of questions to ask yourself when debugging.
     - Run the code and evaluate the results.
     - Update your code based on these results and run again; try to only change one thing at a time.
     - If you return another error, repeat the process until your code works the way you want it to.
+
+### ⌛ Activity (15 min): You try!
+
+In your `script.js` file, there is a function called sumCubes that is broken. Practice following the protocol above to find the bug and fix it!
 
 > Remember to remove any console logs, breakpoints, and other debugging tools from code that will be deployed and any other projects that you plan to show employers.
 
