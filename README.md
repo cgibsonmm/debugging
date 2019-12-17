@@ -1,10 +1,9 @@
-# Introduction to Debugging
-
-## Prerequisites
-
--   JavaScript
--   Visual Studio Code
--   Node.js installed locally (if you have not yet installed Node, please refer back to your Installfest [repo](https://git.generalassemb.ly/seir-129/installfest/blob/master/node.md) and install Node)
+**Title:** Introduction to Debugging
+**Type:** Morning Lecture
+**Duration:** 1:30
+**Creator:** Esin Saribudak
+**Competencies:** Debugging, Problem Solving, JavaScript, Dev Tools, VS Code
+**Prerequisites:** JavaScript, VS Code, Node.js installed locally (if you have not yet installed Node, please refer back to your Installfest [repo](https://git.generalassemb.ly/seir-129/installfest/blob/master/node.md) and install Node)
 
 <hr>
 
