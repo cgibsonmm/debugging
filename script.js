@@ -2,13 +2,13 @@
 
 // // ADDITIONAL CONSOLE METHODS:
 
-// // ERROR
+// // ERROR EXAMPLE
 //console.error('This is my error message');
 
-// // WARN
+// // WARN EXAMPLE
 //console.warn('This is my warning message.');
 
-// // TABLE
+// // TABLE EXAMPLE
 // const userInfo = {
 // 	userOne: {
 // 		userName: 'esin87',
@@ -26,9 +26,10 @@
 // 		email: 'gordon@pets.com'
 // 	}
 // };
-// console.table(userInfo);
+//console.log(userInfo);
+//console.table(userInfo);
 
-// // TRACE
+// // TRACE EXAMPLE
 // function functionTwo() {
 // 	return functionThree();
 // }
@@ -39,13 +40,30 @@
 // //remember to call the function to trace it:
 // functionThree();
 
-//STYLIZED
+// // STYLIZED EXAMPLE
 // console.log(
 // 	'%cThis is my stylish console log.',
 // 	'background-color: lightgreen; color: red; padding: 5px; border: 1px solid yellow; font-family: Garamond; font-size: 14px;'
 // );
 
-//Debugger
+// // Debugger
 
-//a function that counts from 0 to the number of seconds passed in as its parameter
-let seconds = 0;
+// // Function that returns the sum of even numbers from zero to the parameter passed in (there is a bug in the function as it's written)
+
+// let myNumber = 7;
+
+//debug this function in Chrome Dev Tools, then VS Code
+let myName = 'Allan';
+
+function evenSum(num) {
+	for (let i = 0; i <= num; i += 2) {
+		myName = 'Steve';
+		let sum = 0;
+		sum += i;
+		debugger;
+	}
+	myName = 'Roger';
+	return sum;
+}
+
+console.log(evenSum(12));
