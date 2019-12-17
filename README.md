@@ -201,7 +201,7 @@ Getting errors in your code can be really frustrating, but they can also be real
 
 ![That moment when your code works](images/tonystark.jpg)
 
-Next, we will get some practice putting these tools to use
+Next, we will get some practice putting these tools to use!
 
 ## Additional Resources
 
