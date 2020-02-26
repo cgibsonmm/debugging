@@ -6,11 +6,11 @@
 
 ## Agenda
 
-1. Preface (5 min)
-2. A Methodical Approach (10 min)
-3. Console Methods (35 min)
-4. Chrome and VS Code Debugger (35 min)
-5. Additional Resources (5 min)
+1. Preface 
+2. A Methodical Approach
+3. Console Methods 
+4. Chrome and VS Code Debugger
+5. Additional Resources
 
 <hr>
 
@@ -149,8 +149,6 @@ In `script.js`, write your own console messages for each of the console messages
 These are just some of the additional console methods. There are many more console methods out there to learn -- check out the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/API/Console) and try some out!
 
 <hr>
-
-#### Break (10 min)
 
 ## Interactive Debuggers Overview
 
