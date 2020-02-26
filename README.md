@@ -1,20 +1,8 @@
-**Title:** Introduction to Debugging <br>
-**Type:** Morning Lecture <br>
-**Duration:** 1:30 <br>
-**Creator:** Esin Saribudak <br>
-**Competencies:** Debugging, Problem Solving, JavaScript, Dev Tools, VS Code <br>
-**Prerequisites:** JavaScript, VS Code, Node.js installed locally (if you have not yet installed Node, please refer back to your Installfest [repo](https://git.generalassemb.ly/seir-129/installfest/blob/master/node.md) and install Node)
 
-<hr> 
 
-## Objectives
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
 
--   Students will be able to explain what debugging is and why it is important.
--   Students will be able to explain how to take a methodical approach to debugging.
--   Students will be able to use a variety of console tools to debug.
--   Students will gain familiarity with Chrome and VS Code's built-in debugger tools.
-
-<hr>
+# Debugging
 
 ## Agenda
 
