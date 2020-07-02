@@ -55,7 +55,7 @@ Below is a useful series of questions to ask yourself when debugging.
     - Update your code based on these results and run again; try to only change one thing at a time.
     - If you return another error, repeat the process until your code works the way you want it to.
 
-### ⌛ Activity (15 min): You try!
+### ⌛ Activity (10 min): You try!
 
 In your `script.js` file, there is a function called sumCubes that is broken. Practice following the protocol above to find the bug and fix it!
 
@@ -174,7 +174,7 @@ Both Chrome and VS Code also allow you to manually "mark" specific breakpoints i
 
 #### 🤔 What do you think are some of the benefits of using the built-in debuggers?
 
-### ⌛ Activity (20 min): You try!
+### ⌛ Activity (15 min): You try!
 
 1. Follow Google's own [tutorial](https://developers.google.com/web/tools/chrome-devtools/javascript/) for using their Chrome dev tools to debug JavaScript.
 2. Next follow along with VS Code's [guide](https://code.visualstudio.com/docs/introvideos/debugging) to using their built-in debugger.
